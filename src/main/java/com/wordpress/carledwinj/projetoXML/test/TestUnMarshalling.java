@@ -1,4 +1,4 @@
-package com.wordpress.carledwinj.projetoXML.sessionbean;
+package com.wordpress.carledwinj.projetoXML.test;
 
 import java.io.FileNotFoundException;
 
@@ -6,6 +6,7 @@ import javax.xml.bind.JAXBException;
 
 import com.wordpress.carledwinj.projetoXML.pojo.Endereco;
 import com.wordpress.carledwinj.projetoXML.pojo.Usuario;
+import com.wordpress.carledwinj.projetoXML.sessionbean.UnMarshalling;
 
 public class TestUnMarshalling {
 
