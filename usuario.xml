@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuario codigo="45">
+	<nome>Marcos</nome>
+	<idade>27</idade>
+	<lista-enderecos>
+		<endereco>
+			<logradouro>Rua Santos Silva</logradouro>
+			<bairro>Jardim Miranda</bairro>
+			<cidade>Americana</cidade>
+			<pais>Brasil</pais>
+			<numero>343</numero>
+		</endereco>
+		<endereco>
+			<logradouro>Rua Doutor Miguel</logradouro>
+			<bairro>Cidade das Flores</bairro>
+			<cidade>Osasco</cidade>
+			<pais>Brasil</pais>
+			<numero>976</numero>
+		</endereco>
+	</lista-enderecos>
+</usuario>
